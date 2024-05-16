@@ -220,6 +220,13 @@ il{
     margin: 10px;;
     border-top: 1.5px solid #909090;
 }
+/* css para about us */
+.sobre-nosotros h1{
+    color: #eac71b;
+}
+.sobre-nosotros h2{
+    color: #f4d748;
+}
 /* tamaño para tablet */
 @media screen and (max-width:768px) {
     .contenedor{
